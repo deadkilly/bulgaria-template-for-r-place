@@ -8,7 +8,7 @@
  'use strict';
 
     // ==UserScript==
-    // @name         r/bulgaria ABV with tarator
+    // @name         r/bulgaria Flag 2
     // @namespace    http://tampermonkey.net/
     // @version      0.3.1
     // @description  try to take over the canvas!
@@ -22,8 +22,8 @@ if (window.top !== window.self) {
             document.getElementsByTagName("mona-lisa-embed")[0].shadowRoot.children[0].getElementsByTagName("mona-lisa-canvas")[0].shadowRoot.children[0].appendChild(
         (function () {
             const i = document.createElement("img");
-            i.src = "https://i.imgur.com/EAKVD5X.png";
-            i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 1000px;height: 1000px;";
+            i.src = "https://i.imgur.com/kA0da1L.png";
+            i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 1000px;";
             console.log(i);
             return i;
         })())
@@ -37,4 +37,4 @@ if (window.top !== window.self) {
 7. Накрая refresh reddit
 
 
-**Снимка от Gigo_G#3450 и код от Wokstym в github https://gist.github.com/Wokstym/1f296a181cd96a8fcf2b2dd1df65d9fa#file-r_poland_official_script-md** 
+**Код от Wokstym в github https://gist.github.com/Wokstym/1f296a181cd96a8fcf2b2dd1df65d9fa#file-r_poland_official_script-md** 
