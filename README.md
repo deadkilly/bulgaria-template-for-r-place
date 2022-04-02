@@ -1,2 +1,2 @@
 # bulgaria-template-for-r-place
-kakvoto kazva lol
+Ето българските шаблони:
