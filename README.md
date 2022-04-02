@@ -37,4 +37,6 @@ if (window.top !== window.self) {
 6. После save: ctrl + s
 7. Накрая refresh reddit
 
+https://i.imgur.com/AVZKys4.png
+
 **Снимка от Gigo_G#3450 и код от Wokstym в github https://gist.github.com/Wokstym/1f296a181cd96a8fcf2b2dd1df65d9fa#file-r_poland_official_script-md** 
